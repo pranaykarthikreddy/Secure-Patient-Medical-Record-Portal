@@ -5,16 +5,16 @@ Patients receive treatment from multiple hospitals, but medical records are stor
 ## Objective
 To design a patient-centric web application that allows patients to securely manage and share their medical records while maintaining full ownership and privacy of their data.
 
-## Proposed Solution (Conceptual)
+## Proposed Solution 
 - A frontend-focused patient dashboard
 - Chronological medical history timeline
 - Consent-based access control for hospitals
-- Encrypted data indicators (conceptual)
+- Encrypted data indicators 
 - Emergency access option with time-bound control
 
 ## Technology Consideration
-- Frontend: HTML, CSS, JavaScript (conceptual)
-- Backend & Security: Assumed to be handled using encryption or secure mechanisms (no implementation required)
+- Frontend: HTML, CSS, JavaScript 
+- Backend & Security: Assumed to be handled using encryption or secure mechanisms 
 
 ## Current Status
 - Problem statement reviewed
